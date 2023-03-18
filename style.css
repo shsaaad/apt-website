@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;1,400;1,600&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.banner {
+  background: linear-gradient(
+      90deg,
+      rgba(3, 3, 38, 0.3) 0%,
+      rgba(3, 3, 38, 0.3) 93%
+    ),
+    url("./img/banner.jpg");
+  background-image: ;
+  height: 500px;
+  background-position: center;
+}
